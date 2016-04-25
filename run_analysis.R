@@ -1,8 +1,5 @@
 # FINAL ASSIGNMENT #
 
-setwd("C://Users/Mark/Desktop/Coursera/Data Science specialization/Getting and Cleaning Data_032816/")
-if(!dir.exists("Final Assignment")){dir.create("Final Assignment")}
-setwd("./Final Assignment")
 # Downloaded data for assignmenet and put into new directory
 # Data are available at - https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
